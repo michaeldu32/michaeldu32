@@ -4,9 +4,9 @@ I'm a Statistics student with a minor in Computer Science interested in Data Sci
 
 I'm particularly interested in using statistics, programming, and data visualization to turn data into meaningful insights and solve real-world problems.
 
-🛠 Technical Skills
+- 🛠 Technical Skills
 
-Languages
+- Languages:
 
 Python
 R
